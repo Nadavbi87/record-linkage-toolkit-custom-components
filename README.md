@@ -1,6 +1,5 @@
 # Python Record Linkage Toolkit - Custom  Components  
 This repository contains custom components that enhance the functionality of the [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage), a powerful library for record linkage and deduplication tasks. The toolkit already provides essential tools for indexing, comparing records, and using classifiers. However, to address specific requirements for a quick record linkage POC, I've developed additional components to achieve more accurate and faster results.
-Custom components for 
 
 ## POC Requirements
 
